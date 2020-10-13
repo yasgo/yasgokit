@@ -1,0 +1,16 @@
+# Dirs
+.idea/
+/dist
+
+# Files
+Thumbs.db
+.DS_Store
+.project
+*.zip
+*.7z
+*~
+*-
+**/**/*.css.map
+
+# Build & Bundle
+node_modules/
